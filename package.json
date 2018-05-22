@@ -1,0 +1,26 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "NodeJSTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentvanMedenbach/NodeJSTest.git"
+  },
+  "keywords": [
+    "Joden"
+  ],
+  "author": "Belg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentvanMedenbach/NodeJSTest/issues"
+  },
+  "homepage": "https://github.com/VincentvanMedenbach/NodeJSTest#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "express": "^4.16.3"
+  }
+}
